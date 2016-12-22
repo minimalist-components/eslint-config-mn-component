@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["eslint", "mn", "mn-components", "minimalist"],
+  "keywords": [
+      "eslint", 
+      "eslintconfig", 
+      "mn", 
+      "mn-components", 
+      "minimalist"
+  ],
   "author": "Darlan Mendonça <darlanmendonca@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/minimalist-components/eslint-config-mn-component",
