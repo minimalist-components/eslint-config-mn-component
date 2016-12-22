@@ -8,5 +8,12 @@
   },
   "keywords": ["eslint", "mn", "mn-components", "minimalist"],
   "author": "Darlan Mendonça <darlanmendonca@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/minimalist-components/eslint-config-mn-component",
+  "bugs": "https://github.com/minimalist-components/eslint-config-mn-component/issues",
+  "author": "Darlan Mendonça <darlanmendonca@gmail.com> (https://github.com/darlanmendonca)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/minimalist-components/eslint-config-mn-component.git"
+  },
 }
