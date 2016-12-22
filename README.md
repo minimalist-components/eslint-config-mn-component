@@ -4,13 +4,13 @@ JS pattern for minimalist components
 - single quotes
 ... -->
 
-# install
+## install
 
 ```sh
 npm i eslint-config-mn-component eslint
 ```
 
-# usage
+## usage
 
 In root of your project, create a file `.eslintrc` and define:
 
