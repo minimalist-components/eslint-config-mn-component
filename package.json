@@ -16,4 +16,7 @@
     "type": "git",
     "url": "git://github.com/minimalist-components/eslint-config-mn-component.git"
   },
+  "engines": {
+    "node": ">=0.4.0"
+  }
 }
