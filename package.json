@@ -1,16 +1,16 @@
 {
   "name": "eslint-config-mn-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint config to mn-components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-      "eslint", 
-      "eslintconfig", 
-      "mn", 
-      "mn-components", 
+      "eslint",
+      "eslintconfig",
+      "mn",
+      "mn-components",
       "minimalist"
   ],
   "author": "Darlan Mendonça <darlanmendonca@gmail.com>",
