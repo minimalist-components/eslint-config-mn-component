@@ -6,6 +6,7 @@ let required = 2
 module.exports = {
   parserOptions: {
     sourceType: 'module',
+    ecmaVersion: 7,
   },
   env: {
     browser: true,
