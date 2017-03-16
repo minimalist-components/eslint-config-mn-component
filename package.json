@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mn-component",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Eslint config to mn-components",
   "main": "index.js",
   "scripts": {
